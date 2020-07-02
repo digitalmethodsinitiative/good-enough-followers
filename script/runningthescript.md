@@ -25,7 +25,7 @@ Type the following (in the grey boxes) in your terminal
 Clone the git repository (this is a fork of the offical repository, so we can mess with the code)
 
 ```bash
-git clone https://github.com/alexanderroidlhhs/instagram-batch-scrape.git
+git clone https://github.com/digitalmethodsinitiative/instagram-batch-scrape.git
 ```
 
 (Note: if you want to switch to a different folder, use the cd command)
