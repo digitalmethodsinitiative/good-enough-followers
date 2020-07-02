@@ -5,13 +5,13 @@
 ## 1.  Select Profile Scraper on phantombuster
 
 
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](image1.png "image_tooltip")
  
  
 ## 2. Edit input options
 
 
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](image2.png "image_tooltip")
 
 1. Add **session cookie** (install extension if necessary)
     1. !!!! Get sure to first go to instagram.com and log into a dedicated research account as it might get blocked !!!!
@@ -32,20 +32,20 @@
 *   Share the link with **anyone that has the link**
 
 
-![alt_text](images/image3.png "image_tooltip")
+![alt_text](image3.png "image_tooltip")
 
 
-![alt_text](images/image4.png "image_tooltip")
+![alt_text](image4.png "image_tooltip")
 
 
 
 ## 3. Edit scheduling
 
-![alt_text](images/image5.png "image_tooltip")
+![alt_text](image5.png "image_tooltip")
 
 Click on **show advanced settings **hidden on the dots.
 
-![alt_text](images/image6.png "image_tooltip")
+![alt_text](image6.png "image_tooltip")
 
 
 1. Click on **repeatedly**, select **4 times per hour** from the list
@@ -59,7 +59,7 @@ Click on **show advanced settings **hidden on the dots.
 ## 4. Edit notifications
 
 
-![alt_text](images/image7.png "image_tooltip")
+![alt_text](image7.png "image_tooltip")
 
 
 
@@ -70,10 +70,10 @@ Click on **show advanced settings **hidden on the dots.
 # Follower Collector
 
 
-![alt_text](images/image8.png "image_tooltip")
+![alt_text](image8.png "image_tooltip")
 
 
-![alt_text](images/image9.png "image_tooltip")
+![alt_text](image9.png "image_tooltip")
 
 
 
@@ -96,10 +96,10 @@ in combination with a MANUAL scrape
 # Following Collector
 
 
-![alt_text](images/image10.png "image_tooltip")
+![alt_text](image10.png "image_tooltip")
 
 
-![alt_text](images/image11.png "image_tooltip")
+![alt_text](image11.png "image_tooltip")
 
 
 
