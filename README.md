@@ -5,7 +5,7 @@ These recipes originate from the summer school of the digital methods initiative
 ## Scraping Instagram
 
 * [The instagram script](https://github.com/digitalmethodsinitiative/instagram-batch-scrape)
-* -> [more elaborate instructions on how to run it](script/runningthescript.md)
+  * [more elaborate instructions on how to run it](script/runningthescript.md)
 * [tutorial on how to scrape with phantombuster.com](phantombuster/runphantombuster.md)
 
 
