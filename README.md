@@ -3,7 +3,7 @@
 These recipes originate from the summer school of the digital methods initiative 2020. 
 
 ## Research Account
-* [Create good enough instagram research accounts] (good-enough-instagram-research-account.md)
+* [Create good enough instagram research accounts](good-enough-instagram-research-account.md)
 
 
 ## Scraping Instagram
