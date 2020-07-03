@@ -5,6 +5,8 @@ These recipes originate from the summer school of the digital methods initiative
 ## Research Account
 * [Create good enough instagram research accounts](good-enough-instagram-research-account.md)
 
+## Buying Good Enough Followers
+* [Walkthrough Justanotherpanel](purchasing-good-enough-followers.md)
 
 ## Scraping Instagram
 
