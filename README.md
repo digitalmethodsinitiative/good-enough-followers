@@ -12,19 +12,18 @@ These recipes originate from the summer school of the digital methods initiative
 
 * [The instagram script](https://github.com/digitalmethodsinitiative/instagram-batch-scrape)
   * [more elaborate instructions on how to run it](script/runningthescript.md)
-* [Another scraper]
 * [tutorial on how to scrape with phantombuster.com](phantombuster/runphantombuster.md)
+* [Another scraper]
+* [Download all profile images]
 
-
-## Visualising Data
+## Visualising Followers
 
 * [Create Gephi Files](visualization/good-enough-gephi.md)
 * [RAWGraph visualisation]
 
 
 
-
-
+___
 
 
 
