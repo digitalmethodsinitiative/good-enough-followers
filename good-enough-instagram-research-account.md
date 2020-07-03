@@ -1,6 +1,6 @@
-#Create Instagram research accounts
+# Create Instagram research accounts
 
-##Step 1 Preconsiderations
+## Step 1 Preconsiderations
 
 It is recommendable to create at least 2–3 research accounts in advance because they might get blocked in the process. Populate these accounts with some activities, by posting images and starting to follow some other users. In this way they seem more authentic for Instagram. 
 
@@ -9,7 +9,7 @@ In terms of retrieving data, it is recommendable to have separate scraping accou
 You can create five different Instagram accounts from one IP address/phone number
 
 
-##Step 2
+## Step 2
 
 Creating an Instagram account requires research 
 * email account 
