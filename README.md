@@ -15,7 +15,7 @@ These recipes originate from the summer school of the digital methods initiative
 
 ## Visualising Data
 
-
+* [Create Gephi Files](visualizations/good-enough-gephi.md)
 
 
 
